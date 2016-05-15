@@ -1,4 +1,6 @@
 #Instaparser API Python Wrapper
-*Unofficial full Instapaper API Python wrapper.*
+*Unofficial full Instaparser API Python wrapper.*
+
+See: https://www.instaparser.com/
 
 more here soon...
